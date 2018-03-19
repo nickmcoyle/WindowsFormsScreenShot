@@ -1,0 +1,10 @@
+C:\Users\Nick Coyle\source\repos\DNSNetCheckImager\DNSNetCheckImager\bin\Debug\DNSNetCheckImager.exe.config
+C:\Users\Nick Coyle\source\repos\DNSNetCheckImager\DNSNetCheckImager\bin\Debug\DNSNetCheckImager.exe
+C:\Users\Nick Coyle\source\repos\DNSNetCheckImager\DNSNetCheckImager\bin\Debug\DNSNetCheckImager.pdb
+C:\Users\Nick Coyle\source\repos\DNSNetCheckImager\DNSNetCheckImager\obj\Debug\DNSNetCheckImager.csprojResolveAssemblyReference.cache
+C:\Users\Nick Coyle\source\repos\DNSNetCheckImager\DNSNetCheckImager\obj\Debug\DNSNetCheckImager.Properties.Resources.resources
+C:\Users\Nick Coyle\source\repos\DNSNetCheckImager\DNSNetCheckImager\obj\Debug\DNSNetCheckImager.csproj.GenerateResource.cache
+C:\Users\Nick Coyle\source\repos\DNSNetCheckImager\DNSNetCheckImager\obj\Debug\DNSNetCheckImager.csproj.CoreCompileInputs.cache
+C:\Users\Nick Coyle\source\repos\DNSNetCheckImager\DNSNetCheckImager\obj\Debug\DNSNetCheckImager.exe
+C:\Users\Nick Coyle\source\repos\DNSNetCheckImager\DNSNetCheckImager\obj\Debug\DNSNetCheckImager.pdb
+C:\Users\Nick Coyle\source\repos\DNSNetCheckImager\DNSNetCheckImager\obj\Debug\DNSNetCheckImager.DNSNetCheck.resources
